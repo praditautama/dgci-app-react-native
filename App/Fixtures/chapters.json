@@ -1,0 +1,866 @@
+[
+    {
+        "id": "0",
+        "name": "PENGURUS DGCI PUSAT",
+        "total_member": "18",
+        "vpc": {
+            "id": "6",
+            "nia": "6",
+            "full_name": "Mulya",
+            "avatar": "http:\/\/images.dgci.or.id\/users_avatar_6.jpg"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "1",
+        "name": "BALI",
+        "total_member": "47",
+        "vpc": {
+            "id": "972",
+            "nia": "972",
+            "full_name": "Danie Moesmiandani 736 Ft",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "2",
+        "name": "BANDUNG RAYA",
+        "total_member": "206",
+        "vpc": {
+            "id": "239",
+            "nia": "239",
+            "full_name": "Didin Nurdiansyah",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "3",
+        "name": "BANYUMAS",
+        "total_member": "33",
+        "vpc": {
+            "id": "1112",
+            "nia": "1112",
+            "full_name": "Argo Winarto",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "4",
+        "name": "BATARA",
+        "total_member": "105",
+        "vpc": {
+            "id": "591",
+            "nia": "591",
+            "full_name": "Rony",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "5",
+        "name": "BEKASI",
+        "total_member": "153",
+        "vpc": {
+            "id": "63",
+            "nia": "63",
+            "full_name": "Hasbullah",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "6",
+        "name": "BOGOR",
+        "total_member": "172",
+        "vpc": {
+            "id": "1485",
+            "nia": "1485",
+            "full_name": "Irfan Ferdinan",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "7",
+        "name": "CEPU",
+        "total_member": "13",
+        "vpc": {
+            "id": "3001",
+            "nia": "3001",
+            "full_name": "Rudi Hartono",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "8",
+        "name": "CIPASERA",
+        "total_member": "44",
+        "vpc": {
+            "id": "2540",
+            "nia": "2540",
+            "full_name": "Ari Wiyono",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "9",
+        "name": "CIREBON",
+        "total_member": "28",
+        "vpc": {
+            "id": null,
+            "nia": null,
+            "full_name": null,
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "10",
+        "name": "DEPOK",
+        "total_member": "123",
+        "vpc": {
+            "id": "195",
+            "nia": "195",
+            "full_name": "Ahmad Zailani",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "11",
+        "name": "GARUT",
+        "total_member": "5",
+        "vpc": {
+            "id": "2113",
+            "nia": "2113",
+            "full_name": "Irwan Hendrasyah",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "12",
+        "name": "GORONTALO",
+        "total_member": "32",
+        "vpc": {
+            "id": "1336",
+            "nia": "1336",
+            "full_name": "Hamzah Hippy",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "13",
+        "name": "GRESIK",
+        "total_member": "33",
+        "vpc": {
+            "id": "798",
+            "nia": "798",
+            "full_name": "Candra Novergia",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "14",
+        "name": "GURINDAM TJ PINANG",
+        "total_member": "19",
+        "vpc": {
+            "id": "3251",
+            "nia": "3251",
+            "full_name": "Reka Tendra",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "15",
+        "name": "INDRAMAYU",
+        "total_member": "29",
+        "vpc": {
+            "id": "1244",
+            "nia": "1244",
+            "full_name": "Rakhmat Haryanto",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "16",
+        "name": "JAKARTA PUSAT",
+        "total_member": "18",
+        "vpc": {
+            "id": "1442",
+            "nia": "1442",
+            "full_name": "Al Amin Arief",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "17",
+        "name": "JAKARTA SELATAN",
+        "total_member": "85",
+        "vpc": {
+            "id": "1644",
+            "nia": "1644",
+            "full_name": "Slamet Widodo",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "18",
+        "name": "JAKARTA TIMUR",
+        "total_member": "136",
+        "vpc": {
+            "id": "871",
+            "nia": "871",
+            "full_name": "Jhohannes",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "19",
+        "name": "JAMBI",
+        "total_member": "12",
+        "vpc": {
+            "id": null,
+            "nia": null,
+            "full_name": null,
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "20",
+        "name": "KARAWANG",
+        "total_member": "131",
+        "vpc": {
+            "id": "2393",
+            "nia": "2393",
+            "full_name": "Rudy Nurul Awaluddin",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "21",
+        "name": "KEDIRI",
+        "total_member": "35",
+        "vpc": {
+            "id": null,
+            "nia": null,
+            "full_name": null,
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "22",
+        "name": "LOMBOK",
+        "total_member": "32",
+        "vpc": {
+            "id": "2423",
+            "nia": "2423",
+            "full_name": "H.Ismail",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "23",
+        "name": "LUBUK LINGGAU",
+        "total_member": "15",
+        "vpc": {
+            "id": "2378",
+            "nia": "2378",
+            "full_name": "Tovan Asmar",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "24",
+        "name": "MAGELANG",
+        "total_member": "29",
+        "vpc": {
+            "id": "1274",
+            "nia": "1274",
+            "full_name": "M Izudin Choirul Anam",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "25",
+        "name": "MAKASSAR",
+        "total_member": "122",
+        "vpc": {
+            "id": "755",
+            "nia": "755",
+            "full_name": "Andi Muh. Amir",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "26",
+        "name": "MALANG RAYA",
+        "total_member": "77",
+        "vpc": {
+            "id": "341",
+            "nia": "341",
+            "full_name": "Agus Purnomo Sidi",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "27",
+        "name": "MANADO",
+        "total_member": "21",
+        "vpc": {
+            "id": "3230",
+            "nia": "3230",
+            "full_name": "Fallen Oktavian Putra Rangian",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "28",
+        "name": "MEDAN",
+        "total_member": "137",
+        "vpc": {
+            "id": "455",
+            "nia": "455",
+            "full_name": "Parlindungan S, Sh Mh",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "29",
+        "name": "MOJOPAHIT",
+        "total_member": "51",
+        "vpc": {
+            "id": "639",
+            "nia": "639",
+            "full_name": "Bin",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "30",
+        "name": "PALEMBANG",
+        "total_member": "111",
+        "vpc": {
+            "id": "577",
+            "nia": "577",
+            "full_name": "Andy",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "31",
+        "name": "PALU",
+        "total_member": "89",
+        "vpc": {
+            "id": "1196",
+            "nia": "1196",
+            "full_name": "M. Zulkarnain",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "32",
+        "name": "PASURUAN",
+        "total_member": "31",
+        "vpc": {
+            "id": "1560",
+            "nia": "1560",
+            "full_name": "Muhammad Munir",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "33",
+        "name": "PATEN BOR",
+        "total_member": "64",
+        "vpc": {
+            "id": "98",
+            "nia": "98",
+            "full_name": "M. Ghufron Fuady",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "34",
+        "name": "PAWITANDIROGO",
+        "total_member": "83",
+        "vpc": {
+            "id": "840",
+            "nia": "840",
+            "full_name": "Samekto Gumelar",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "35",
+        "name": "PONTIANAK",
+        "total_member": "32",
+        "vpc": {
+            "id": null,
+            "nia": null,
+            "full_name": null,
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "36",
+        "name": "PROBOLINGGO",
+        "total_member": "35",
+        "vpc": {
+            "id": "2262",
+            "nia": "2262",
+            "full_name": "Anis Irwanto",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "37",
+        "name": "PURWAKARTA",
+        "total_member": "103",
+        "vpc": {
+            "id": "1011",
+            "nia": "1011",
+            "full_name": "Iip Kamaludin",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "38",
+        "name": "RIAU",
+        "total_member": "76",
+        "vpc": {
+            "id": "1709",
+            "nia": "1709",
+            "full_name": "Irfan Eka Putra",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "39",
+        "name": "SEMARANG",
+        "total_member": "24",
+        "vpc": {
+            "id": "2962",
+            "nia": "2962",
+            "full_name": "Topo Raharjo ",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "40",
+        "name": "SIDOARJO",
+        "total_member": "76",
+        "vpc": {
+            "id": "1151",
+            "nia": "1151",
+            "full_name": "Anang Siswanto",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "41",
+        "name": "SIGER KENCANA LAMPUNG",
+        "total_member": "45",
+        "vpc": {
+            "id": "3034",
+            "nia": "3034",
+            "full_name": "Ir.Emil Aprillo",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "42",
+        "name": "SINGANAGA",
+        "total_member": "11",
+        "vpc": {
+            "id": "971",
+            "nia": "971",
+            "full_name": "Dani Fikka Cahyadi",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "43",
+        "name": "SOLO RAYA",
+        "total_member": "77",
+        "vpc": {
+            "id": "1043",
+            "nia": "1043",
+            "full_name": "Heru Suryo Hutomo",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "44",
+        "name": "SUBANG",
+        "total_member": "27",
+        "vpc": {
+            "id": "1375",
+            "nia": "1375",
+            "full_name": "Nurtahyudin S.Kom",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "45",
+        "name": "SUMATERA BARAT",
+        "total_member": "30",
+        "vpc": {
+            "id": "1776",
+            "nia": "1776",
+            "full_name": "Anita Dikarina, M.Si",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "46",
+        "name": "SUMEDANG",
+        "total_member": "12",
+        "vpc": {
+            "id": "2891",
+            "nia": "2891",
+            "full_name": "Fitriyani",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "47",
+        "name": "SURABAYA",
+        "total_member": "146",
+        "vpc": {
+            "id": "439",
+            "nia": "439",
+            "full_name": "Didik Kussudiharjo",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "48",
+        "name": "TANGERANG RAYA",
+        "total_member": "176",
+        "vpc": {
+            "id": "659",
+            "nia": "659",
+            "full_name": "Sutandi",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "49",
+        "name": "TAPAL KUDA",
+        "total_member": "83",
+        "vpc": {
+            "id": "1180",
+            "nia": "1180",
+            "full_name": "Aries Ellya Sandy",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "50",
+        "name": "TASIKMALAYA",
+        "total_member": "46",
+        "vpc": {
+            "id": "1915",
+            "nia": "1915",
+            "full_name": "Deris Nurahman",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "51",
+        "name": "TEGAL",
+        "total_member": "33",
+        "vpc": {
+            "id": "31",
+            "nia": "31",
+            "full_name": "Hendyk Ari Kurniyanto",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "52",
+        "name": "TIMIKA",
+        "total_member": "16",
+        "vpc": {
+            "id": "3102",
+            "nia": "3102",
+            "full_name": "Fluorinco",
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    {
+        "id": "53",
+        "name": "YOGYAKARTA",
+        "total_member": "57",
+        "vpc": {
+            "id": null,
+            "nia": null,
+            "full_name": null,
+            "avatar": "http:\/\/res.cloudinary.com\/praditautama\/image\/upload\/v1461155806\/default-avatar_n5mooc.png"
+        },
+        "location": {
+            "address": null,
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

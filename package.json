@@ -25,6 +25,7 @@
     "fixcode": "standard --fix"
   },
   "dependencies": {
+    "@shoutem/ui": "^0.15.0",
     "apisauce": "^0.10.0",
     "format-json": "^1.0.3",
     "lodash": "^4.17.2",
@@ -36,6 +37,7 @@
     "react-native-config": "^0.2.1",
     "react-native-device-info": "0.10.2",
     "react-native-drawer": "^2.3.0",
+    "react-native-htmlview": "^0.9.0",
     "react-native-i18n": "1.0.0",
     "react-native-vector-icons": "4.1.1",
     "react-navigation": "1.0.0-beta.11",

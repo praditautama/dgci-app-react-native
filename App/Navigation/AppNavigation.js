@@ -1,23 +1,38 @@
+import React from 'react'
 import { StackNavigator } from 'react-navigation'
-import LaunchScreen from '../Containers/LaunchScreen'
-import LoginScreen from '../Containers/LoginScreen'
+import ChapterDetailsScreen from '../Containers/ChapterDetailsScreen'
+import ArticleDetailsScreen from '../Containers/ArticleDetailsScreen'
 
+import ArticleListScreen from '../Containers/ArticleListScreen'
+
+import { MainTabNav } from './RoutesNavigation'
 import styles from './Styles/NavigationStyles'
+import { Colors } from '../Themes'
 
 // Manifest of possible screens
 const PrimaryNav = StackNavigator({
-  LaunchScreen: { screen: LaunchScreen },
-  LoginScreen: {
-    screen: LoginScreen,
-    navigationOptions: { title: 'Login' }
-  }
+  Home: { screen: MainTabNav },
+  ArticleDetailsScreen: { screen: ArticleDetailsScreen },
+  ChapterDetailsScreen: { screen: ChapterDetailsScreen },
 }, {
   // Default config for all screens
-  headerMode: 'none',
-  initialRouteName: 'LaunchScreen',
-  navigationOptions: {
-    headerStyle: styles.header
-  }
+  headerMode: 'screen',
+  initialRouteName: 'Home',
 })
 
+MainTabNav.navigationOptions = {
+  //title: 'DGCI',
+  headerStyle: { backgroundColor: Colors.black },
+  headerTintColor: '#FFFFFF'
+};
+
+ArticleDetailsScreen.navigationOptions = {
+  headerStyle: { backgroundColor: Colors.black },
+  headerTintColor: '#FFFFFF'
+}
+
+ChapterDetailsScreen.navigationOptions = {
+  headerStyle: { backgroundColor: Colors.black },
+  headerTintColor: '#FFFFFF'
+}
 export default PrimaryNav
