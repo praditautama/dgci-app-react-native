@@ -2,7 +2,7 @@ import React from 'react'
 import { StackNavigator } from 'react-navigation'
 import ChapterDetailsScreen from '../Containers/ChapterDetailsScreen'
 import ArticleDetailsScreen from '../Containers/ArticleDetailsScreen'
-
+import MemberDetailsScreen from '../Containers/MemberDetailsScreen'
 import ArticleListScreen from '../Containers/ArticleListScreen'
 
 import { MainTabNav } from './RoutesNavigation'
@@ -14,6 +14,7 @@ const PrimaryNav = StackNavigator({
   Home: { screen: MainTabNav },
   ArticleDetailsScreen: { screen: ArticleDetailsScreen },
   ChapterDetailsScreen: { screen: ChapterDetailsScreen },
+  MemberDetailsScreen: { screen: MemberDetailsScreen },
 }, {
   // Default config for all screens
   headerMode: 'screen',
@@ -35,4 +36,10 @@ ChapterDetailsScreen.navigationOptions = {
   headerStyle: { backgroundColor: Colors.black },
   headerTintColor: '#FFFFFF'
 }
+
+MemberDetailsScreen.navigationOptions = {
+  headerStyle: { backgroundColor: Colors.black },
+  headerTintColor: '#FFFFFF'
+}
+
 export default PrimaryNav

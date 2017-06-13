@@ -1,6 +1,7 @@
 import React from 'react'
 // Add Actions - replace 'Your' with whatever your reducer is called :)
 // import YourActions from '../Redux/YourRedux'
+import { StyleSheet } from 'react-native'
 import {
   ScrollView,
   Icon,
@@ -13,7 +14,8 @@ import {
   Divider,
   Tile,
   Screen,
-  Caption
+  Caption,
+  Lightbox
 } from '@shoutem/ui';
 
 import {
@@ -60,10 +62,11 @@ export default class ArticleDetailsScreen extends React.Component {
               </View>
             </View>
           </Tile>
-            
+          
+          <Divider styleName="line" />
           
           <Screen styleName="paper">
-            <View style={styles.mainContainer}>
+            <View styleName="md-gutter multiline">
               <HTMLView
                 value={htmlContent}
               />
@@ -72,36 +75,22 @@ export default class ArticleDetailsScreen extends React.Component {
             <Divider styleName="line" />
 
             <Row>
-              <Icon name="laptop" />
+              <Image
+                styleName="small-avatar"
+                source={{ uri: 'https://shoutem.github.io/img/ui-toolkit/examples/image-9.png' }}
+              />
               <View styleName="vertical">
-                <Subtitle>Visit webpage</Subtitle>
-                <Text numberOfLines={1}>http://www.adfad.com</Text>
+                <Subtitle>Penulis</Subtitle>
+                <Text numberOfLines={1}>{post.author}</Text>
               </View>
               <Icon styleName="disclosure" name="right-arrow" />
             </Row>
 
             <Divider styleName="line" />
 
-            <Row>
-              <Icon name="pin" />
-              <View styleName="vertical">
-                <Subtitle>Address</Subtitle>
-                <Text numberOfLines={1}>alamat</Text>
-              </View>
-              <Icon styleName="disclosure" name="right-arrow" />
-            </Row>
+            
 
-            <Divider styleName="line" />
 
-            <Row>
-              <Icon name="email" />
-              <View styleName="vertical">
-                <Subtitle>Email</Subtitle>
-                <Text numberOfLines={1}>email@tema.com</Text>
-              </View>
-            </Row>
-
-            <Divider styleName="line" />
           </Screen>
         </ScrollView>
       </Screen>

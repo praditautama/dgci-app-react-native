@@ -16,7 +16,8 @@ import {
   Divider,
   Row,
   DropDownMenu,
-  Icon
+  Icon,
+  Overlay
 } from '@shoutem/ui';
 // Styles
 import styles from './Styles/SettingsScreenStyle'
@@ -31,7 +32,18 @@ class SettingsScreen extends React.Component {
   render () {
     return (
       <ScrollView style={styles.container}>
-        <Text>SettingsScreen Container</Text>
+        <Image
+          styleName="large-banner"
+          source={require('../Images/datsun.jpg')}
+        >
+          <Tile>
+            <Title styleName="md-gutter-bottom">Datsun GO+ Community Indonesia</Title>
+            <Overlay styleName="solid-bright">
+              <Subtitle styleName="sm-gutter-horizontal">v 2.0</Subtitle>
+            </Overlay>
+          </Tile>
+        </Image>
+        
       </ScrollView>
     )
   }

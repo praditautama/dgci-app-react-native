@@ -69,6 +69,8 @@ class ArticleListScreen extends React.Component {
               </View>
             </View>
           </Row>
+          <Divider styleName="line" /> 
+          
         </TouchableOpacity>
       );
     } else {
@@ -77,7 +79,7 @@ class ArticleListScreen extends React.Component {
             <Tile>
               <Image
                 styleName="large-banner"
-                source={{ uri: post.featured_image_url }}
+                source={{ uri: post.featured_image_url }} 
               />
               <View styleName="content">
                 <Title>{post.title}</Title>
@@ -87,7 +89,9 @@ class ArticleListScreen extends React.Component {
                 </View>
               </View>
             </Tile>
+            <Divider styleName="line" />
         </TouchableOpacity>
+        
       )
     }   
   }
