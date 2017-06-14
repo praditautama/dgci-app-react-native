@@ -16,14 +16,13 @@ import {
   Screen,
   Caption,
   Lightbox,
-  RichMedia
+  Html
 } from '@shoutem/ui';
 
 import {
   NavigationBar,
 } from '@shoutem/ui/navigation';
 
-import HTMLView from 'react-native-htmlview';
 
 // Styles
 import styles from './Styles/ArticleDetailsScreenStyle'
@@ -73,7 +72,7 @@ export default class ArticleDetailsScreen extends React.Component {
           <Screen styleName="paper">
             <View styleName="multiline">
               
-              <RichMedia
+              <Html
                 body={htmlContent}
               />
             </View>
