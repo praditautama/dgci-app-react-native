@@ -44,11 +44,6 @@ export default class ArticleDetailsScreen extends React.Component {
      let htmlContent = post.content
      console.log(this.props.navigation.state.params)
      console.log(post)
-    const webViewStyle = StyleSheet.create({ 
-        p: {
-            //margin
-        }
-    });
     return (
       <Screen style={styles.container.marginTop}>
 
