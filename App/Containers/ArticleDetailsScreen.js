@@ -44,7 +44,11 @@ export default class ArticleDetailsScreen extends React.Component {
      let htmlContent = post.content
      console.log(this.props.navigation.state.params)
      console.log(post)
-
+    const webViewStyle = StyleSheet.create({ 
+        p: {
+            //margin
+        }
+    });
     return (
       <Screen style={styles.container.marginTop}>
 
@@ -68,7 +72,8 @@ export default class ArticleDetailsScreen extends React.Component {
           <Screen styleName="paper">
             <View styleName="md-gutter multiline">
               <HTMLView
-                value={htmlContent}
+                value={"<newCustomElement>"+ htmlContent + "</newCustomElement>"}
+                stylesheet={webViewStyle}
               />
             </View>
 

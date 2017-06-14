@@ -62,13 +62,14 @@ class ArticleListScreen extends React.Component {
               source={{ uri: post.featured_image_url }}
             />
             <View styleName="vertical stretch space-between">
-              <Subtitle numberOfLines={3}>{post.title}</Subtitle>
+              <Subtitle style={{width:200}}>{post.title}</Subtitle>
               <View styleName="horizontal space-between">
                 <Caption>{post.date}</Caption>
                 <Caption>{post.categories[0]}</Caption>
               </View>
             </View>
           </Row>
+          
           <Divider styleName="line" /> 
           
         </TouchableOpacity>
