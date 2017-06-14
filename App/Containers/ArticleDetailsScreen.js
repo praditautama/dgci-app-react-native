@@ -15,7 +15,8 @@ import {
   Tile,
   Screen,
   Caption,
-  Lightbox
+  Lightbox,
+  RichMedia
 } from '@shoutem/ui';
 
 import {
@@ -70,10 +71,10 @@ export default class ArticleDetailsScreen extends React.Component {
           <Divider styleName="line" />
           
           <Screen styleName="paper">
-            <View styleName="md-gutter multiline">
-              <HTMLView
-                value={"<newCustomElement>"+ htmlContent + "</newCustomElement>"}
-                stylesheet={webViewStyle}
+            <View styleName="multiline">
+              
+              <RichMedia
+                body={htmlContent}
               />
             </View>
 
