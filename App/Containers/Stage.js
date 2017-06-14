@@ -33,7 +33,7 @@ const styles =  {
     flexDirection: 'column',
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: '#f5f6f7',
+    backgroundColor: 'rgba(0,0,0,0)',
   },
 };
 

@@ -48,11 +48,14 @@ class ChapterDetailsScreen extends React.Component {
                       </Image>
                     );
                   }}
-                  pageMargin={20}
+                  showNextPage={true}
+                  pageMargin={0}
                 />
               </View>
             </Stage>
           </View>
+
+          
     )
   }
 }
